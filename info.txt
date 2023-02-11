@@ -1,0 +1,7 @@
+# Version Information
+* Smartfox version : 2.19.0
+
+# External Jars
+# SmartfoxServer
+* sfs2x.jar
+* sfs2x-core.jar
